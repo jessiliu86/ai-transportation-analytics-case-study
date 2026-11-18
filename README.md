@@ -13,3 +13,10 @@ Across 11 rounds of testing and refinement, the work produced a repeatable proce
 ## Recognition
 
 EDF recognized the project with its 2026 Climate Corps Innovation Award for the China program. Its public account documents the project scope, testing and deliverables. [Read the EDF award announcement](https://business.edf.org/climate-corps/fellows/climate-corps-fellowship-awards/).
+
+## Project and media coverage
+
+- [EDF Climate Corps Fellowship Awards — 2026 Innovation Award](https://business.edf.org/climate-corps/fellows/climate-corps-fellowship-awards/)
+- [EDF project profile — Jessi Liu at Faurecia China](https://business.edf.org/climate-corps/projects/faurecia-jessi-liu-2026/)
+- [Climate Corps on LinkedIn — recent announcements](https://www.linkedin.com/in/climate-corps/recent-activity/all/)
+- [EDF Beijing Representative Office — fellowship feature on WeChat (Chinese)](https://mp.weixin.qq.com/s/T_GI8CtSBFI0YrN4ptl34Q)
